@@ -6,7 +6,7 @@ COPY . /app
 
 
 
-WORKDIR /app/LL
+WORKDIR /app/dll
 
 
 CMD ["node", "main.js"]
